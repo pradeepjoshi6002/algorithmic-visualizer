@@ -1,2 +1,2 @@
 ## Algorithmic-Visualizer
-### React + TypeScript + Vite
+### React + TypeScript + Vite + Tailwindcss
