@@ -1,2 +1,2 @@
-#Algorithmic-Visualizer
+## Algorithmic-Visualizer
 ### React + TypeScript + Vite
